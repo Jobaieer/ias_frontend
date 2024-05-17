@@ -1,0 +1,23 @@
+.ias-color-light{
+    color: #4781B8;
+}
+
+.ias-bg-normal{
+    background-color: #0E2F4F;
+}
+
+.ias-bg-dark{
+    background-color:#0E2F4F;
+}
+
+.ias-bg-light{
+    color: #4781B8;
+}
+
+.ias-bg-light,.ias-bg-btn:hover{
+    background-color: #F8BD0D;
+}
+
+a{
+    text-decoration: none;
+}
